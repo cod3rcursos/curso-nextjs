@@ -1,0 +1,9 @@
+.cartao {
+    display: flex;
+    width: 300px;
+    height: 300px;
+    color: #fff;
+    font-size: 2rem;
+    padding: 20px;
+    margin: 3px;
+}
